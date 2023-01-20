@@ -9,3 +9,5 @@ i like to play hockey and skiing
 I have black cat
 
 ![](P1030222.JPG)
+
+theme: minima
