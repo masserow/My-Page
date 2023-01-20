@@ -8,4 +8,4 @@ i like to play hockey and skiing
 
 I have black cat
 
-![](https://github.com/masserow/My-Page/blob/main/P1030222.JPG)
+![](P1030222.JPG)
